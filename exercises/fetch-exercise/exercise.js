@@ -28,3 +28,4 @@ fetch(" https://codeyourfuture.herokuapp.com/api/greetings")
     greetingText.innerText = greeting;
     // Write the code to display the greeting text here
   });
+Promise.resolve()
